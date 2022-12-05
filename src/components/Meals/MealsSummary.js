@@ -4,14 +4,13 @@ import classes from './MealsSummary.module.css';
 function MealsSummary() {
     return (
         <section className={classes.summary}>
-            <h2>Delicious Food, Delivered To You</h2>
+            <h2>This is Pre-made app for selling the products</h2>
             <p>
-                Choose your favorite meal from our broad selection of available meals
-                and enjoy a delicious lunch or dinner at home.
+                In this case you can choose your favorite meal from our 'fake' menu, 
+                add them to the cart and order them!
             </p>
             <p>
-                All our meals are cooked with high-quality ingredients, just-in-time and
-                of course by experienced chefs!
+                The app is written on React Js! 
             </p>
         </section>
     )
